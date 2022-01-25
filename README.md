@@ -11,7 +11,7 @@ To get started using Epoch, please refer to the [Epoch Project Site](http://epoc
 
 ### Installation
 Epoch can be easily installed via the following package managers:
-
+ 
 * [npm](https://www.npmjs.com/package/epoch-charting)
 * [bower](http://bower.io/search/?q=epoch)
 * [packagist](https://packagist.org/packages/epochjs/epoch)
