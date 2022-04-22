@@ -1,7 +1,7 @@
 # Maps short string names to classes for library adapters.
 Epoch._typeMap =
   'area': Epoch.Chart.Area
-  'bar': Epoch.Chart.Bar
+  'bar': Epoch.Chart.Bar 
   'line': Epoch.Chart.Line
   'pie': Epoch.Chart.Pie
   'scatter': Epoch.Chart.Scatter
