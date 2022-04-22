@@ -8,6 +8,6 @@ Epoch._typeMap =
   'histogram': Epoch.Chart.Histogram 
   'time.area': Epoch.Time.Area 
   'time.bar': Epoch.Time.Bar
-  'time.line': Epoch.Time.Line
+  'time.line': Epoch.Time.Line 
   'time.gauge': Epoch.Time.Gauge
   'time.heatmap': Epoch.Time.Heatmap
