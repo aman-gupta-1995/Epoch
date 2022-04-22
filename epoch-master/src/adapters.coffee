@@ -7,7 +7,7 @@ Epoch._typeMap =
   'scatter': Epoch.Chart.Scatter   
   'histogram': Epoch.Chart.Histogram   
   'time.area': Epoch.Time.Area  
-  'time.bar': Epoch.Time.Bar 
+  'time.bar': Epoch.Time.Bar  
   'time.line': Epoch.Time.Line 
   'time.gauge': Epoch.Time.Gauge
   'time.heatmap': Epoch.Time.Heatmap
