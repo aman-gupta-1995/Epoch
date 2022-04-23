@@ -7,7 +7,7 @@
     "charting",
     "visualization",
     "svg",
-    "animation",
+    "animation", 
     "canvas", 
     "d3"
   ],
