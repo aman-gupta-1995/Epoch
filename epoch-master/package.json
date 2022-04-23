@@ -8,7 +8,7 @@
     "visualization",
     "svg",
     "animation",  
-    "canvas",   
+    "canvas",    
     "d3" 
   ],
   "homepage": "http://fastly.github.io/epoch/", 
