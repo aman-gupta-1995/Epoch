@@ -10,7 +10,7 @@
     "animation",  
     "canvas",     
     "d3" 
-  ], 
+  ],  
   "homepage": "http://fastly.github.io/epoch/", 
   "author": {
     "name": "rsandor",
