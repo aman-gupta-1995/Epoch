@@ -6,7 +6,7 @@ By Ryan Sandor Richards
 [![devDependency Status](https://david-dm.org/epochjs/epoch/dev-status.svg)](https://david-dm.org/epochjs/epoch#info=devDependencies)
 
 Epoch is a general purpose charting library for application developers and visualization designers. It focuses on two different aspects of visualization programming: **basic charts** for creating historical reports, and **real-time charts** for displaying frequently updating timeseries data.
-
+ 
 To get started using Epoch, please refer to the [Epoch Project Site](http://epochjs.github.io/epoch/). There you can find full documentation and guides to help you start using Epoch right away.
 
 ### Installation
