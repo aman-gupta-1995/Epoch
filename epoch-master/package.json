@@ -9,7 +9,7 @@
     "svg",
     "animation",  
     "canvas",   
-    "d3"
+    "d3" 
   ],
   "homepage": "http://fastly.github.io/epoch/", 
   "author": {
