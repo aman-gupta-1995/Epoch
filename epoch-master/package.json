@@ -11,7 +11,7 @@
     "canvas", 
     "d3"
   ],
-  "homepage": "http://fastly.github.io/epoch/",
+  "homepage": "http://fastly.github.io/epoch/", 
   "author": {
     "name": "rsandor",
     "url": "https://github.com/rsandor"
