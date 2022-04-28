@@ -2,7 +2,7 @@
 
     // Quick data generator
     Data = function() {
-        this.layers = []
+        this.layers = [] 
     };    
    
     Data.prototype.add = function(fn) { 
