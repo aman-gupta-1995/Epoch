@@ -4,7 +4,7 @@
     Data = function() {
         this.layers = []
     };   
- 
+  
     Data.prototype.add = function(fn) { 
         fn = fn ? fn : function(x) { return x; }; 
         this.layers.push(fn);
