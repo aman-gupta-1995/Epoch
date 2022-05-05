@@ -6,7 +6,7 @@ if (window.Epoch == null) {
      
 if ((base = window.Epoch).Chart == null) {    
   base.Chart = {}; 
-}
+} 
 
 if ((base1 = window.Epoch).Time == null) {
   base1.Time = {};
