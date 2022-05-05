@@ -25,7 +25,7 @@ Epoch.warn = function(msg) {
 };
 
 Epoch.exception = function(msg) {
-  throw "Epoch Error: " + msg;
+  throw "Epoch Error: " + msg; 
 };
 
 Epoch.TestContext = (function() {
