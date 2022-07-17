@@ -7,7 +7,7 @@ class Epoch.Chart.Bar extends Epoch.Chart.Plot
     padding: 
       bar: 0.08
       group: 0.1   
-    outerPadding:
+    outerPadding: 
       bar: 0.08
       group: 0.1
  
