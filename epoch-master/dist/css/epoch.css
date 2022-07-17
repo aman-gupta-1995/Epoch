@@ -3,7 +3,7 @@
 /** Generates the styles needed to define a fill color for a given class name. @param $name Name of the class to use (sans the leading .) @param $color Fill color to associate with the class name. */
 /** Produces categorical color classes for plots (excluding heatmaps). @param $list List of colors to use for each category. @param $entries Size of the input list. */
 /** Produces categorical colors for heatmaps. @param $list List of colors to use for categories. @param $entries Size of the input list. */
-.epoch .axis path, .epoch .axis line { shape-rendering: crispEdges; }
+.epoch .axis path, .epoch .axis line { shape-rendering: crispEdges; } 
      
 .epoch .axis.canvas .tick line { shape-rendering: geometricPrecision; }   
  
