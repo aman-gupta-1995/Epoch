@@ -6,7 +6,7 @@ MooToolsModule = ->
   # @param [Object] options Options for the chart.
   # @option options [String] type The type of chart to append to the referenced element.    
   # @return [Object] The chart instance that was associated with the containing element. 
-  Element.implement 'epoch', (options) -> 
+  Element.implement 'epoch', (options) ->  
     self = $$(this)
     unless (chart = self.retrieve(DATA_NAME)[0])?
       options.el = this
@@ -17,3 +17,4 @@ MooToolsModule = ->
     return chart
 
 MooToolsModule() if window.MooTools?
+ 
