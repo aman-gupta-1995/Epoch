@@ -10,7 +10,7 @@ class Epoch.Chart.Bar extends Epoch.Chart.Plot
     outerPadding:
       bar: 0.08
       group: 0.1
-
+ 
   horizontal_specific =
     tickFormats:
       top: Epoch.Formats.si
