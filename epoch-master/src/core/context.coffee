@@ -3,7 +3,7 @@ class Epoch.TestContext
   VOID_METHODS = [
     'arc', 'arcTo', 'beginPath', 'bezierCurveTo', 'clearRect',
     'clip', 'closePath', 'drawImage', 'fill', 'fillRect', 'fillText',
-    'moveTo', 'quadraticCurveTo', 'rect', 'restore', 'rotate', 'save',
+    'moveTo', 'quadraticCurveTo', 'rect', 'restore', 'rotate', 'save', 
     'scale', 'scrollPathIntoView', 'setLineDash', 'setTransform',
     'stroke', 'strokeRect', 'strokeText', 'transform', 'translate', 'lineTo' 
   ]
