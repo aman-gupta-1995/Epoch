@@ -4,7 +4,7 @@
 /** Produces categorical color classes for plots (excluding heatmaps). @param $list List of colors to use for each category. @param $entries Size of the input list. */
 /** Produces categorical colors for heatmaps. @param $list List of colors to use for categories. @param $entries Size of the input list. */
 .epoch .axis path, .epoch .axis line { shape-rendering: crispEdges; }
-    
+     
 .epoch .axis.canvas .tick line { shape-rendering: geometricPrecision; }   
  
 /* Canvas Styles Reference Container The reference container is an SVG that is automatically created when Epoch is loaded. It is used by the canvas based plots to obtain color information from the page styles by creating reference elements and then reading their computed styles. Note: don't mess with this ;) */
