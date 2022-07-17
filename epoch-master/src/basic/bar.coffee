@@ -2,7 +2,7 @@
 class Epoch.Chart.Bar extends Epoch.Chart.Plot
   defaults =
     type: 'bar'
-    style: 'grouped'
+    style: 'grouped' 
     orientation: 'vertical'
     padding:
       bar: 0.08
