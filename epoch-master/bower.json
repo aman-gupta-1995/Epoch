@@ -7,7 +7,7 @@
   ],     
   "license": "MIT",         
   "ignore": [    
-    "**/.*",  
+    "**/.*",   
     "/src",
     "/sass",
     "/tests",
