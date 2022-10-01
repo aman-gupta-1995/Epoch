@@ -6,7 +6,7 @@
     "dist/css/epoch.min.css"   
   ],    
   "license": "MIT",  
-  "ignore": [
+  "ignore": [ 
     "**/.*", 
     "/src",
     "/sass",
