@@ -4,7 +4,7 @@
   "main": [
     "dist/js/epoch.min.js", 
     "dist/css/epoch.min.css"    
-  ],    
+  ],     
   "license": "MIT",         
   "ignore": [    
     "**/.*", 
