@@ -28,7 +28,7 @@
   ],
   "homepage": "https://fastly.github.io/epoch/",
   "repository": {
-    "type": "git",
+    "type": "git", 
     "url": "git://github.com/fastly/epoch.git"
   }, 
   "dependencies": { 
