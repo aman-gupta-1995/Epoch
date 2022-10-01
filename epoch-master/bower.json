@@ -2,7 +2,7 @@
   "name": "epoch",
   "description": "A general purpose, real-time visualization library.",
   "main": [
-    "dist/js/epoch.min.js", 
+    "dist/js/epoch.min.js",  
     "dist/css/epoch.min.css"    
   ],     
   "license": "MIT",         
