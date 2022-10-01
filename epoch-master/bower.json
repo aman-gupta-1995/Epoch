@@ -1,5 +1,5 @@
 {
-  "name": "epoch",
+  "name": "epoch", 
   "description": "A general purpose, real-time visualization library.",
   "main": [
     "dist/js/epoch.min.js",  
