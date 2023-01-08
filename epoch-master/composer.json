@@ -3,7 +3,7 @@
   "description": "A general purpose, real-time visualization library.",
   "keywords": [  
     "epoch", 
-    "d3",  
+    "d3",   
     "chart",      
     "graph",   
     "plot", 
