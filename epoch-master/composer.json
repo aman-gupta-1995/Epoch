@@ -1,7 +1,7 @@
 {
   "name": "epochjs/epoch",
   "description": "A general purpose, real-time visualization library.",
-  "keywords": [  
+  "keywords": [   
     "epoch",  
     "d3",   
     "chart",       
